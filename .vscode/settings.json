@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmsis_os2.h": "c",
+        "stdio.h": "c",
+        "net_common.h": "c",
+        "tcp_client_test.h": "c",
+        "net_demo_common.h": "c",
+        "mes_que.h": "c",
+        "wifiiot_gpio.h": "c"
+    }
+}
